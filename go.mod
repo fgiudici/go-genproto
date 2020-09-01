@@ -1,4 +1,4 @@
-module google.golang.org/genproto
+module github.com/fgiudici/go-genproto
 
 go 1.11
 
